@@ -1,11 +1,7 @@
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <p>Edit</p>
-      </header>
-    </div>
-  );
-}
+import React from "react";
+
+const App = () => {
+  return <div></div>;
+};
 
 export default App;
